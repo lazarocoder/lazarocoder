@@ -1,8 +1,7 @@
 - 👋 Olá, eu sou Lázaro Daniel
-- 👀 
-- 🌱 Estou buscando  me especializar em Angular e Sprring Boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🧑‍💻 Desenvolvedor Full Stack 
+- 👽 Estou buscando  me especializar em Angular e Sprring Boot
+
 
 <div align="center">
   <a href="https://github.com/lazarocoder">
