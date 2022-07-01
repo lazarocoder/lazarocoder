@@ -1,6 +1,6 @@
-- 👋 Olá, eu sou Lázaro Daniel
-- 🧑‍💻 Desenvolvedor Full Stack 
-- 👽 Estou buscando  me especializar em Angular e Sprring Boot
+- 👋 Hello, I am Lazarus Daniel
+- 🧑‍💻 Software engineer 
+- 👽 Developer
 
 
 <div align="center">
